@@ -1,0 +1,20 @@
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\bin\Debug\net6.0-windows\Nexus Innovations.exe
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\bin\Debug\net6.0-windows\Nexus Innovations.deps.json
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\bin\Debug\net6.0-windows\Nexus Innovations.runtimeconfig.json
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\bin\Debug\net6.0-windows\Nexus Innovations.dll
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\bin\Debug\net6.0-windows\Nexus Innovations.pdb
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.csproj.AssemblyReference.cache
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus_Innovations.Form1.resources
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.csproj.GenerateResource.cache
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.AssemblyInfoInputs.cache
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.AssemblyInfo.cs
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.csproj.CoreCompileInputs.cache
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.dll
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\refint\Nexus Innovations.dll
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.pdb
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus Innovations.genruntimeconfig.cache
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\ref\Nexus Innovations.dll
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus_Innovations.Properties.Resources.resources
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus_Innovations.ventanaDeIngresar.resources
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovations\Nexus Innovations\Nexus Innovations\obj\Debug\net6.0-windows\Nexus_Innovations.Nexus_Innovations_Prestamos.resources

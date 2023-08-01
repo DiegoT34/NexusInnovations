@@ -1,0 +1,5 @@
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovatiosn App\Nexus Innovations.exe
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovatiosn App\Nexus Innovations.dll
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovatiosn App\Nexus Innovations.deps.json
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovatiosn App\Nexus Innovations.runtimeconfig.json
+C:\Users\DIEGOVEGA\Desktop\Nexus Innovatiosn App\Nexus Innovations.pdb
